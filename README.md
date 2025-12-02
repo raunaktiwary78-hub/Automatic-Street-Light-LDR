@@ -2,7 +2,7 @@
 <h1 align="center">Automatic Street Light using LDR (Arduino)</h1>
 <p align="center">Arduino-based automatic street light system that turns ON a lamp when it gets dark using an LDR sensor. Simple, reliable, great for embedded & IoT portfolio.</p>
 
----
+
 
 ## 📌 Project Summary
 - **Hardware:** Arduino UNO (or any compatible board), LDR (photoresistor), 10kΩ resistor, NPN transistor (e.g., 2N2222) or relay module, LED / lamp, jumpers, breadboard.
